@@ -1,7 +1,7 @@
 [
   {
     "name": "UniqueBots API",
-    "url": "https://api.uniquebots.kr/graphql",
+    "url": "https://api.uniquebots.kr",
     "icon": "https://favicons.githubusercontent.com/api.uniquebots.kr",
     "slug": "unique-bots-api",
     "status": "down",
@@ -10,13 +10,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 739,
-    "timeDay": 739,
-    "timeWeek": 739,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738,
     "dailyMinutesDown": {
-      "2020-12-19": 237,
+      "2020-12-19": 241,
       "2020-12-18": 858
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 393,
-    "timeWeek": 393,
-    "timeMonth": 393,
-    "timeYear": 393,
+    "time": 382,
+    "timeDay": 382,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
