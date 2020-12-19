@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/api.uniquebots.kr",
     "slug": "unique-bots-api",
     "status": "down",
-    "uptime": "6.49%",
-    "uptimeDay": "6.49%",
-    "uptimeWeek": "6.49%",
-    "uptimeMonth": "6.49%",
-    "uptimeYear": "6.49%",
-    "time": 744,
-    "timeDay": 744,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 686,
+    "timeDay": 686,
+    "timeWeek": 686,
+    "timeMonth": 686,
+    "timeYear": 686,
     "dailyMinutesDown": {
-      "2020-12-18": 0
+      "2020-12-19": 14,
+      "2020-12-18": 858
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   }
 ]
