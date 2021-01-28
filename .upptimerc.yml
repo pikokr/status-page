@@ -4,8 +4,6 @@ repo: status-page # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: UniqueBots API
-    url: https://api.uniquebots.kr
   - name: UniqueBots FrontEnd
     url: https://uniquebots.kr
 
